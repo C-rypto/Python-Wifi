@@ -1,4 +1,4 @@
-# Python-Wifi
+# Python Wifip破解器
 用来破解附近Wifi的命令行小玩意，附带密码本生成器。
 
 # 注意事项
